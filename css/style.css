@@ -1,0 +1,240 @@
+.header{
+    width: auto; 
+    height: 120px;  
+    background-color:#ffffff;
+    }
+
+     .header h1{
+padding-top: 10%;
+color: rgb(0, 0, 0);
+padding-left: -49%;
+     }
+     .header h4{
+  margin-top: -19px;
+  margin-left: 40px;
+     }
+
+    .topnav{
+        padding-left: 14%;
+    }
+
+    .block{
+        width: 150px;
+        float: left;
+        }
+
+ul.topnav li{
+    list-style-type: none;
+    float: left;
+    color: #000000;
+margin-top: 30px;
+}
+ul.topnav li a{
+display: block;
+text-decoration: none;
+color:rgb(0, 0, 0);
+padding-top: 20px;
+padding-right: 25px;
+}
+.nav-text h5{
+    font-size: xx-large;
+  padding-left: 75px;
+}
+*{
+  box-sizing: border-box
+ }
+ .image-slideshow {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+ }
+ img {
+  width: 100%
+ }
+ .fade {
+  animation-name: fade;
+  animation-duration: 10s;
+ }
+ @keyframes fade {
+  from {opacity: .5}
+  to {opacity: 5}
+ }
+
+ .offer h1{
+margin-left: 41%;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+  .offer h3{
+margin-left: 40%;
+margin-top: -13px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+   .offer{
+    background-color: #ffffff;
+   }
+    .new{
+      background-color: #f4f4f4;
+    }
+   .new img{
+      width: 400px;
+    }
+     .new h2{
+     padding-left: 420px;
+     margin-top: -246px;
+     }
+      .new p{
+      padding-left: 410px;
+        }
+   .button1 button{
+    margin-left: 410px;
+   }
+   .button2 button{
+  margin-left: 489px;
+  margin-top: -22px;
+   }
+    .Brands{
+      background-color: #ffffff;
+    }
+
+   .Brands h2{
+   padding-left: 490px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    .Brands h3{
+      padding-left: 388px;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+          }
+     .Brands img{
+      width: 1100px;
+      height: auto;
+     }
+     .Newsletter{
+      background-color: #000000;
+     }
+
+     .Newsletter h2{
+          padding-left: 450px;
+          color: white;
+          font-family: Georgia, 'Times New Roman', Times, serif;
+      }
+      .Newsletter h3{
+        color: white;
+        padding-left: 457px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+            }
+    
+
+            * {
+              box-sizing: border-box;
+            
+            }
+      
+      
+            input[type=text], select, checkbox {
+              width: 50%;
+              padding: 12px;
+              border: 1px solid #ccc;
+              border-radius: 4px;
+              resize: vertical;
+            }
+      
+            label{
+              padding: 12px 12px 12px 0px;
+              display: inline-block;
+            }
+      
+            input[type=submit] {
+              background-color: #04AA6D;
+              color: white;
+              padding: 12px 20px;
+              border: none;
+              border-radius: 4px;
+              cursor: pointer;
+              float: left;
+            }
+      
+            .col-25 {
+              float: left;
+              width: 25%;
+              margin-top: 6px;
+            }
+      
+            .col-75 {
+              float: left;
+              width: 75%;
+              margin-top: 6px;
+            }
+      
+            .row:after {
+              content: "";
+              display: table;
+              clear: both;
+            }
+            
+      
+            * {
+              box-sizing: border-box;
+            }
+            
+            input[type=text], select, textarea {
+              width: 100%;
+              padding: 12px;
+              border: 1px solid #ccc;
+              border-radius: 4px;
+              resize: vertical;
+            }
+            
+            label {
+              padding: 12px 12px 12px 0;
+              display: inline-block;
+            }
+            
+            input[type=submit] {
+              width: 100%;
+              padding: 12px;
+              border: 1px solid #ccc;
+              border-radius: 4px;
+              resize: vertical;
+              background-color: #000000;
+              color: rgb(255, 255, 255);
+              padding: 12px 20px;
+              border: none;
+              border-radius: 4px;
+              cursor: pointer;
+              float: right;
+            }
+            
+            input[type=submit]:hover {
+              background-color: #ffffff;
+              color: #000000;
+            }
+            
+            .container {
+              border-radius: 5px;
+            }
+      
+            table, th, td {
+              border: solid 1px black;
+              width: 300px;
+              padding: 10px;
+            }
+
+            .Blog h2{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     padding-left: 520px;
+            }
+            .Blog h3{
+              font-family: Georgia, 'Times New Roman', Times, serif;
+              padding-left: 470px;
+            }
+             .Blogs1 img{
+             width: 390px;
+             }
+             .Blogs2 img{
+              width: 390px;
+              }
+              .Blogs3 img{
+                width: 390px;
+                }
+
