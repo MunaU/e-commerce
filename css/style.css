@@ -219,7 +219,9 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
               width: 300px;
               padding: 10px;
             }
-
+.Blog{
+  padding-top: 50px;
+}
             .Blog h2{
      font-family: Georgia, 'Times New Roman', Times, serif;
      padding-left: 520px;
@@ -228,13 +230,8 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
               font-family: Georgia, 'Times New Roman', Times, serif;
               padding-left: 470px;
             }
-             .Blogs1 img{
-             width: 390px;
+             .Blogs{
+              width: 1100px;
+              padding-left: 76px;
              }
-             .Blogs2 img{
-              width: 390px;
-              }
-              .Blogs3 img{
-                width: 390px;
-                }
-
+           
